@@ -1,0 +1,4 @@
+<resources>
+    <string name="icono">Icono de la aplicación</string>
+    <string name="imageCardView">Imagen dinamica en CardView</string>
+</resources>

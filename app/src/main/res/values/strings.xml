@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LoginPague</string>
+    <string name="userName">Nombre</string>
+    <string name="email">E-mail</string>
+    <string name="password">Contraseña</string>
+    <string name="confirmPassword">Confirmar contraseña</string>
+    <string name="logIn">Iniciar sesión</string>
+    <string name="loginSuccess">Autenticado correctamente</string>
+    <string name="logUp">Registrarse</string>
+    <string name="logUpTitle">¡Regístrate!</string>
+    <string name="logingIN">Iniciando sesión</string>
+    <string name="registered">Registrado correctamente</string>
+    <string name="logingUp">Registrando usuario</string>
+
+</resources>
